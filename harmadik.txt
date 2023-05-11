@@ -1,1 +1,1 @@
-google.com
+goog-A komponens fejlesztése
